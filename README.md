@@ -1,6 +1,6 @@
 ## Bem-Vindo(a) ao meu Perfil😄
 
-<div>
+<div align="center">
   <a href="https://github.com/Pedrosant11">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedrosant11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrosant11&layout=compact&langs_count=6&theme=tokyonight"/>
